@@ -1,0 +1,17 @@
+{
+	"include": [
+		"./src"
+	],
+	"compilerOptions": {
+		"module": "commonjs",
+		"target": "es6",
+		"sourceMap": true,
+		"declaration": true,
+		"forceConsistentCasingInFileNames": true,
+		"strict": true,
+		"outDir": "./dist"
+	},
+	"exclude": [
+		"node_modules"
+	]
+}

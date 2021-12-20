@@ -1,0 +1,17 @@
+{
+	"name": "simple-jsx-factory",
+	"version": "1.0.0",
+	"author": {
+		"name": "Daniel Sage",
+		"url": "https://github.com/dnsge"
+	},
+	"repository": "https://github.com/dnsge/simple-jsx-factory",
+	"main": "./dist/index.js",
+	"types": "./dist/index.d.ts",
+	"scripts": {
+		"prepublish": "tsc"
+	},
+	"devDependencies": {
+		"typescript": "^4.5.4"
+	}
+}
